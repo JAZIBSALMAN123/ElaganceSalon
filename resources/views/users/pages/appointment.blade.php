@@ -112,18 +112,6 @@
                                 </select>
                             </div>
                         </div>
-<<<<<<< HEAD
-                        <div class="form-group row">
-                            <div class="col-md-12 padding-10">
-                                <p id="service_price" class="text-center" style="font-weight: bold;"></p>
-                            </div>
-                        </div>
-                        {{-- <button id="app_submit" class="default_btn" type="submit">Make Appointment</button> --}}
-                        <input type="submit" value="Make Appointment" class="default_btn" onclick="refreshPage()">
-                        {{-- <div id="msg-status" class="alert" role="alert"></div> --}}
-                    </form>
-=======
->>>>>>> fdb739e79315c09b1d8d35f0a0a9b312c45fd659
 
                         <button type="submit" class="btn btn-primary mt-4">Make Appointment</button>
                     </div>
